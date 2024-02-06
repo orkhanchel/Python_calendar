@@ -16,3 +16,7 @@ class Calendar:
         return self.events
 
 
+'''тестирование 
+проекта 
+для 
+себя'''
