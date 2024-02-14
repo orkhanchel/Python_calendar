@@ -35,3 +35,5 @@ class Backend:
     def verify_credentials(self, user_id, password):
         hashed_password = self.hash_password(password)
         return self.users.get(user_id, {}).get('password') == hashed_password
+
+
