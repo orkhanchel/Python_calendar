@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonPrCalendar.iml" filepath="$PROJECT_DIR$/.idea/pythonPrCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_course_calendar/.idea/Python_course_calendar.iml" filepath="$PROJECT_DIR$/../Python_course_calendar/.idea/Python_course_calendar.iml" />
     </modules>
   </component>
 </project>
